@@ -1,0 +1,1232 @@
+[
+	{
+		"cumulativenet": "1.32705",
+		"grossprofit": "23580.000",
+		"handingfee": "299.490",
+		"netprofit": "23280.51000",
+		"playerid": "726878",
+		"profitrate": "32.70517",
+		"spprofitrate": "32.70517",
+		"tradedate": "2020-03-30"
+	},
+	{
+		"cumulativenet": "1.29547",
+		"grossprofit": "21910.000",
+		"handingfee": "876.820",
+		"netprofit": "21033.18000",
+		"playerid": "726878",
+		"profitrate": "25.39527",
+		"spprofitrate": "29.54805",
+		"tradedate": "2020-03-31"
+	},
+	{
+		"cumulativenet": "1.32284",
+		"grossprofit": "24530.000",
+		"handingfee": "1547.790",
+		"netprofit": "22982.21000",
+		"playerid": "726878",
+		"profitrate": "26.73774",
+		"spprofitrate": "32.28611",
+		"tradedate": "2020-04-01"
+	},
+	{
+		"cumulativenet": "1.12686",
+		"grossprofit": "11020.000",
+		"handingfee": "1987.560",
+		"netprofit": "9032.44000",
+		"playerid": "726878",
+		"profitrate": "10.26333",
+		"spprofitrate": "12.68905",
+		"tradedate": "2020-04-02"
+	},
+	{
+		"cumulativenet": "1.77319",
+		"grossprofit": "57370.000",
+		"handingfee": "2327.620",
+		"netprofit": "55042.38000",
+		"playerid": "726878",
+		"profitrate": "63.67062",
+		"spprofitrate": "77.32522",
+		"tradedate": "2020-04-03"
+	},
+	{
+		"cumulativenet": "1.55780",
+		"grossprofit": "43100.000",
+		"handingfee": "2661.200",
+		"netprofit": "40438.80000",
+		"playerid": "726878",
+		"profitrate": "43.91794",
+		"spprofitrate": "56.80966",
+		"tradedate": "2020-04-07"
+	},
+	{
+		"cumulativenet": "1.73698",
+		"grossprofit": "55470.000",
+		"handingfee": "2882.100",
+		"netprofit": "52587.90000",
+		"playerid": "726878",
+		"profitrate": "55.93690",
+		"spprofitrate": "73.87709",
+		"tradedate": "2020-04-08"
+	},
+	{
+		"cumulativenet": "1.85605",
+		"grossprofit": "64205.000",
+		"handingfee": "3543.420",
+		"netprofit": "60661.58000",
+		"playerid": "726878",
+		"profitrate": "62.54891",
+		"spprofitrate": "85.21924",
+		"tradedate": "2020-04-09"
+	},
+	{
+		"cumulativenet": "2.38705",
+		"grossprofit": "100640.000",
+		"handingfee": "3975.430",
+		"netprofit": "96664.57000",
+		"playerid": "726878",
+		"profitrate": "96.48172",
+		"spprofitrate": "135.79735",
+		"tradedate": "2020-04-10"
+	},
+	{
+		"cumulativenet": "2.10127",
+		"grossprofit": "81265.000",
+		"handingfee": "3975.430",
+		"netprofit": "77289.57000",
+		"playerid": "726878",
+		"profitrate": "72.67109",
+		"spprofitrate": "108.57875",
+		"tradedate": "2020-04-13"
+	},
+	{
+		"cumulativenet": "2.47179",
+		"grossprofit": "106860.000",
+		"handingfee": "4447.900",
+		"netprofit": "102412.10000",
+		"playerid": "726878",
+		"profitrate": "93.40871",
+		"spprofitrate": "143.87165",
+		"tradedate": "2020-04-14"
+	},
+	{
+		"cumulativenet": "2.97285",
+		"grossprofit": "141575.000",
+		"handingfee": "5188.760",
+		"netprofit": "136386.24000",
+		"playerid": "726878",
+		"profitrate": "119.14751",
+		"spprofitrate": "191.59956",
+		"tradedate": "2020-04-15"
+	},
+	{
+		"cumulativenet": "3.29668",
+		"grossprofit": "164515.000",
+		"handingfee": "6171.330",
+		"netprofit": "158343.67000",
+		"playerid": "726878",
+		"profitrate": "130.68060",
+		"spprofitrate": "222.44603",
+		"tradedate": "2020-04-16"
+	},
+	{
+		"cumulativenet": "3.29595",
+		"grossprofit": "165010.000",
+		"handingfee": "6715.290",
+		"netprofit": "158294.71000",
+		"playerid": "726878",
+		"profitrate": "123.20595",
+		"spprofitrate": "222.37725",
+		"tradedate": "2020-04-17"
+	},
+	{
+		"cumulativenet": "3.03590",
+		"grossprofit": "147850.000",
+		"handingfee": "7107.030",
+		"netprofit": "140742.97000",
+		"playerid": "726878",
+		"profitrate": "104.45035",
+		"spprofitrate": "197.72003",
+		"tradedate": "2020-04-20"
+	},
+	{
+		"cumulativenet": "3.35716",
+		"grossprofit": "169870.000",
+		"handingfee": "7440.760",
+		"netprofit": "162429.24000",
+		"playerid": "726878",
+		"profitrate": "116.74427",
+		"spprofitrate": "228.18557",
+		"tradedate": "2020-04-21"
+	},
+	{
+		"cumulativenet": "3.03460",
+		"grossprofit": "148960.000",
+		"handingfee": "8301.890",
+		"netprofit": "140658.11000",
+		"playerid": "726878",
+		"profitrate": "97.49078",
+		"spprofitrate": "197.60082",
+		"tradedate": "2020-04-22"
+	},
+	{
+		"cumulativenet": "3.60447",
+		"grossprofit": "188430.000",
+		"handingfee": "9304.480",
+		"netprofit": "179125.52000",
+		"playerid": "726878",
+		"profitrate": "121.32343",
+		"spprofitrate": "251.64101",
+		"tradedate": "2020-04-23"
+	},
+	{
+		"cumulativenet": "3.86702",
+		"grossprofit": "207130.000",
+		"handingfee": "10280.700",
+		"netprofit": "196849.30000",
+		"playerid": "726878",
+		"profitrate": "128.93102",
+		"spprofitrate": "276.53992",
+		"tradedate": "2020-04-24"
+	},
+	{
+		"cumulativenet": "6.01913",
+		"grossprofit": "353015.000",
+		"handingfee": "10892.910",
+		"netprofit": "342122.09000",
+		"playerid": "726878",
+		"profitrate": "216.40188",
+		"spprofitrate": "480.62358",
+		"tradedate": "2020-04-27"
+	},
+	{
+		"cumulativenet": "5.11728",
+		"grossprofit": "293520.000",
+		"handingfee": "12270.850",
+		"netprofit": "281249.15000",
+		"playerid": "726878",
+		"profitrate": "165.52324",
+		"spprofitrate": "395.10741",
+		"tradedate": "2020-04-28"
+	},
+	{
+		"cumulativenet": "5.23738",
+		"grossprofit": "302010.000",
+		"handingfee": "12651.280",
+		"netprofit": "289358.72000",
+		"playerid": "726878",
+		"profitrate": "162.65863",
+		"spprofitrate": "406.49998",
+		"tradedate": "2020-04-29"
+	},
+	{
+		"cumulativenet": "4.95838",
+		"grossprofit": "283620.000",
+		"handingfee": "13094.190",
+		"netprofit": "270525.81000",
+		"playerid": "726878",
+		"profitrate": "145.81233",
+		"spprofitrate": "380.04293",
+		"tradedate": "2020-04-30"
+	},
+	{
+		"cumulativenet": "4.14466",
+		"grossprofit": "230550.000",
+		"handingfee": "14952.460",
+		"netprofit": "215597.54000",
+		"playerid": "726878",
+		"profitrate": "112.43919",
+		"spprofitrate": "302.87802",
+		"tradedate": "2020-05-06"
+	},
+	{
+		"cumulativenet": "4.19402",
+		"grossprofit": "234100.000",
+		"handingfee": "15170.170",
+		"netprofit": "218929.83000",
+		"playerid": "726878",
+		"profitrate": "112.11802",
+		"spprofitrate": "307.55932",
+		"tradedate": "2020-05-07"
+	},
+	{
+		"cumulativenet": "3.65400",
+		"grossprofit": "198900.000",
+		"handingfee": "16422.790",
+		"netprofit": "182477.21000",
+		"playerid": "726878",
+		"profitrate": "91.86052",
+		"spprofitrate": "256.34957",
+		"tradedate": "2020-05-08"
+	},
+	{
+		"cumulativenet": "3.39270",
+		"grossprofit": "182960.000",
+		"handingfee": "18120.450",
+		"netprofit": "164839.55000",
+		"playerid": "726878",
+		"profitrate": "82.24530",
+		"spprofitrate": "231.57164",
+		"tradedate": "2020-05-11"
+	},
+	{
+		"cumulativenet": "3.74741",
+		"grossprofit": "206910.000",
+		"handingfee": "18126.040",
+		"netprofit": "188783.96000",
+		"playerid": "726878",
+		"profitrate": "93.71459",
+		"spprofitrate": "265.20948",
+		"tradedate": "2020-05-12"
+	},
+	{
+		"cumulativenet": "3.36873",
+		"grossprofit": "181350.000",
+		"handingfee": "18126.040",
+		"netprofit": "163223.96000",
+		"playerid": "726878",
+		"profitrate": "80.31796",
+		"spprofitrate": "229.30201",
+		"tradedate": "2020-05-13"
+	},
+	{
+		"cumulativenet": "3.10206",
+		"grossprofit": "163350.000",
+		"handingfee": "18126.040",
+		"netprofit": "145223.96000",
+		"playerid": "726878",
+		"profitrate": "71.17831",
+		"spprofitrate": "204.01506",
+		"tradedate": "2020-05-14"
+	},
+	{
+		"cumulativenet": "3.12387",
+		"grossprofit": "165150.000",
+		"handingfee": "18452.200",
+		"netprofit": "146697.80000",
+		"playerid": "726878",
+		"profitrate": "71.83959",
+		"spprofitrate": "206.08556",
+		"tradedate": "2020-05-15"
+	},
+	{
+		"cumulativenet": "3.60039",
+		"grossprofit": "200000.000",
+		"handingfee": "21132.410",
+		"netprofit": "178867.59000",
+		"playerid": "726878",
+		"profitrate": "87.50407",
+		"spprofitrate": "251.27866",
+		"tradedate": "2020-05-18"
+	},
+	{
+		"cumulativenet": "3.41223",
+		"grossprofit": "188740.000",
+		"handingfee": "22572.680",
+		"netprofit": "166167.32000",
+		"playerid": "726878",
+		"profitrate": "80.82795",
+		"spprofitrate": "233.43693",
+		"tradedate": "2020-05-19"
+	},
+	{
+		"cumulativenet": "3.32996",
+		"grossprofit": "184570.000",
+		"handingfee": "23955.710",
+		"netprofit": "160614.29000",
+		"playerid": "726878",
+		"profitrate": "77.85095",
+		"spprofitrate": "225.63587",
+		"tradedate": "2020-05-20"
+	},
+	{
+		"cumulativenet": "3.66748",
+		"grossprofit": "208220.000",
+		"handingfee": "24818.590",
+		"netprofit": "183401.41000",
+		"playerid": "726878",
+		"profitrate": "88.66902",
+		"spprofitrate": "257.64791",
+		"tradedate": "2020-05-21"
+	},
+	{
+		"cumulativenet": "4.77341",
+		"grossprofit": "283920.000",
+		"handingfee": "25858.430",
+		"netprofit": "258061.57000",
+		"playerid": "726878",
+		"profitrate": "124.08593",
+		"spprofitrate": "362.53279",
+		"tradedate": "2020-05-22"
+	},
+	{
+		"cumulativenet": "4.39688",
+		"grossprofit": "260070.000",
+		"handingfee": "27426.790",
+		"netprofit": "232643.21000",
+		"playerid": "726878",
+		"profitrate": "110.22686",
+		"spprofitrate": "326.82430",
+		"tradedate": "2020-05-25"
+	},
+	{
+		"cumulativenet": "4.84057",
+		"grossprofit": "292540.000",
+		"handingfee": "29943.900",
+		"netprofit": "262596.10000",
+		"playerid": "726878",
+		"profitrate": "123.10216",
+		"spprofitrate": "368.90304",
+		"tradedate": "2020-05-26"
+	},
+	{
+		"cumulativenet": "4.73964",
+		"grossprofit": "288875.000",
+		"handingfee": "33089.140",
+		"netprofit": "255785.86000",
+		"playerid": "726878",
+		"profitrate": "118.29620",
+		"spprofitrate": "359.33580",
+		"tradedate": "2020-05-27"
+	},
+	{
+		"cumulativenet": "4.82339",
+		"grossprofit": "295895.000",
+		"handingfee": "34453.560",
+		"netprofit": "261441.44000",
+		"playerid": "726878",
+		"profitrate": "119.47867",
+		"spprofitrate": "367.28093",
+		"tradedate": "2020-05-28"
+	},
+	{
+		"cumulativenet": "4.89902",
+		"grossprofit": "303445.000",
+		"handingfee": "36895.520",
+		"netprofit": "266549.48000",
+		"playerid": "726878",
+		"profitrate": "120.37993",
+		"spprofitrate": "374.45686",
+		"tradedate": "2020-05-29"
+	},
+	{
+		"cumulativenet": "5.60335",
+		"grossprofit": "351755.000",
+		"handingfee": "39092.820",
+		"netprofit": "312662.18000",
+		"playerid": "726878",
+		"profitrate": "139.71354",
+		"spprofitrate": "439.23740",
+		"tradedate": "2020-06-01"
+	},
+	{
+		"cumulativenet": "5.85354",
+		"grossprofit": "370025.000",
+		"handingfee": "41426.390",
+		"netprofit": "328598.61000",
+		"playerid": "726878",
+		"profitrate": "144.83214",
+		"spprofitrate": "461.62538",
+		"tradedate": "2020-06-02"
+	},
+	{
+		"cumulativenet": "5.98565",
+		"grossprofit": "378925.000",
+		"handingfee": "41912.350",
+		"netprofit": "337012.65000",
+		"playerid": "726878",
+		"profitrate": "146.40104",
+		"spprofitrate": "473.44568",
+		"tradedate": "2020-06-03"
+	},
+	{
+		"cumulativenet": "5.65997",
+		"grossprofit": "362330.000",
+		"handingfee": "46056.880",
+		"netprofit": "316273.12000",
+		"playerid": "726878",
+		"profitrate": "135.41769",
+		"spprofitrate": "444.31016",
+		"tradedate": "2020-06-04"
+	},
+	{
+		"cumulativenet": "5.29309",
+		"grossprofit": "339965.000",
+		"handingfee": "47055.150",
+		"netprofit": "292909.85000",
+		"playerid": "726878",
+		"profitrate": "123.95021",
+		"spprofitrate": "411.48872",
+		"tradedate": "2020-06-05"
+	},
+	{
+		"cumulativenet": "5.04839",
+		"grossprofit": "327265.000",
+		"handingfee": "49935.810",
+		"netprofit": "277329.19000",
+		"playerid": "726878",
+		"profitrate": "116.30166",
+		"spprofitrate": "389.60053",
+		"tradedate": "2020-06-08"
+	},
+	{
+		"cumulativenet": "4.82076",
+		"grossprofit": "313725.000",
+		"handingfee": "50892.660",
+		"netprofit": "262832.34000",
+		"playerid": "726878",
+		"profitrate": "109.42817",
+		"spprofitrate": "369.23491",
+		"tradedate": "2020-06-09"
+	},
+	{
+		"cumulativenet": "5.60842",
+		"grossprofit": "364965.000",
+		"handingfee": "51968.300",
+		"netprofit": "312996.70000",
+		"playerid": "726878",
+		"profitrate": "129.57793",
+		"spprofitrate": "439.70734",
+		"tradedate": "2020-06-10"
+	},
+	{
+		"cumulativenet": "5.59087",
+		"grossprofit": "366920.000",
+		"handingfee": "55040.730",
+		"netprofit": "311879.27000",
+		"playerid": "726878",
+		"profitrate": "127.89091",
+		"spprofitrate": "438.13754",
+		"tradedate": "2020-06-11"
+	},
+	{
+		"cumulativenet": "5.77761",
+		"grossprofit": "379220.000",
+		"handingfee": "55446.100",
+		"netprofit": "323773.90000",
+		"playerid": "726878",
+		"profitrate": "131.58145",
+		"spprofitrate": "454.84748",
+		"tradedate": "2020-06-12"
+	},
+	{
+		"cumulativenet": "6.28760",
+		"grossprofit": "412460.000",
+		"handingfee": "56204.080",
+		"netprofit": "356255.92000",
+		"playerid": "726878",
+		"profitrate": "143.41588",
+		"spprofitrate": "500.47922",
+		"tradedate": "2020-06-15"
+	},
+	{
+		"cumulativenet": "5.34062",
+		"grossprofit": "353760.000",
+		"handingfee": "57810.920",
+		"netprofit": "295949.08000",
+		"playerid": "726878",
+		"profitrate": "117.77844",
+		"spprofitrate": "415.75832",
+		"tradedate": "2020-06-16"
+	},
+	{
+		"cumulativenet": "5.75473",
+		"grossprofit": "382400.000",
+		"handingfee": "60074.890",
+		"netprofit": "322325.11000",
+		"playerid": "726878",
+		"profitrate": "127.44073",
+		"spprofitrate": "452.81218",
+		"tradedate": "2020-06-17"
+	},
+	{
+		"cumulativenet": "5.41681",
+		"grossprofit": "361840.000",
+		"handingfee": "60915.770",
+		"netprofit": "300924.23000",
+		"playerid": "726878",
+		"profitrate": "118.03245",
+		"spprofitrate": "422.74756",
+		"tradedate": "2020-06-18"
+	},
+	{
+		"cumulativenet": "5.20783",
+		"grossprofit": "348920.000",
+		"handingfee": "61232.560",
+		"netprofit": "287687.44000",
+		"playerid": "726878",
+		"profitrate": "112.14807",
+		"spprofitrate": "404.15212",
+		"tradedate": "2020-06-19"
+	},
+	{
+		"cumulativenet": "5.57571",
+		"grossprofit": "373760.000",
+		"handingfee": "62767.420",
+		"netprofit": "310992.58000",
+		"playerid": "726878",
+		"profitrate": "120.62793",
+		"spprofitrate": "436.89189",
+		"tradedate": "2020-06-22"
+	},
+	{
+		"cumulativenet": "4.32653",
+		"grossprofit": "295500.000",
+		"handingfee": "63629.690",
+		"netprofit": "231870.31000",
+		"playerid": "726878",
+		"profitrate": "89.36800",
+		"spprofitrate": "325.73851",
+		"tradedate": "2020-06-23"
+	},
+	{
+		"cumulativenet": "4.33419",
+		"grossprofit": "297810.000",
+		"handingfee": "65453.400",
+		"netprofit": "232356.60000",
+		"playerid": "726878",
+		"profitrate": "89.47011",
+		"spprofitrate": "326.42166",
+		"tradedate": "2020-06-24"
+	},
+	{
+		"cumulativenet": "3.83966",
+		"grossprofit": "267960.000",
+		"handingfee": "66927.430",
+		"netprofit": "201032.57000",
+		"playerid": "726878",
+		"profitrate": "77.33499",
+		"spprofitrate": "282.41670",
+		"tradedate": "2020-06-29"
+	},
+	{
+		"cumulativenet": "4.07008",
+		"grossprofit": "283940.000",
+		"handingfee": "68311.540",
+		"netprofit": "215628.46000",
+		"playerid": "726878",
+		"profitrate": "83.03751",
+		"spprofitrate": "302.92146",
+		"tradedate": "2020-06-30"
+	},
+	{
+		"cumulativenet": "3.74867",
+		"grossprofit": "264255.000",
+		"handingfee": "68984.070",
+		"netprofit": "195270.93000",
+		"playerid": "726878",
+		"profitrate": "75.20663",
+		"spprofitrate": "274.32258",
+		"tradedate": "2020-07-01"
+	},
+	{
+		"cumulativenet": "3.69941",
+		"grossprofit": "261985.000",
+		"handingfee": "69831.860",
+		"netprofit": "192153.14000",
+		"playerid": "726878",
+		"profitrate": "74.10638",
+		"spprofitrate": "269.94261",
+		"tradedate": "2020-07-02"
+	},
+	{
+		"cumulativenet": "3.78472",
+		"grossprofit": "267585.000",
+		"handingfee": "70025.960",
+		"netprofit": "197559.04000",
+		"playerid": "726878",
+		"profitrate": "76.30600",
+		"spprofitrate": "277.53698",
+		"tradedate": "2020-07-03"
+	},
+	{
+		"cumulativenet": "3.45715",
+		"grossprofit": "247520.000",
+		"handingfee": "70709.740",
+		"netprofit": "176810.26000",
+		"playerid": "726878",
+		"profitrate": "68.36975",
+		"spprofitrate": "248.38846",
+		"tradedate": "2020-07-06"
+	},
+	{
+		"cumulativenet": "3.80376",
+		"grossprofit": "270790.000",
+		"handingfee": "72023.410",
+		"netprofit": "198766.59000",
+		"playerid": "726878",
+		"profitrate": "77.03873",
+		"spprofitrate": "279.23339",
+		"tradedate": "2020-07-07"
+	},
+	{
+		"cumulativenet": "3.14590",
+		"grossprofit": "230190.000",
+		"handingfee": "73095.440",
+		"netprofit": "157094.56000",
+		"playerid": "726878",
+		"profitrate": "60.94747",
+		"spprofitrate": "220.69124",
+		"tradedate": "2020-07-08"
+	},
+	{
+		"cumulativenet": "3.35221",
+		"grossprofit": "243265.000",
+		"handingfee": "73100.500",
+		"netprofit": "170164.50000",
+		"playerid": "726878",
+		"profitrate": "66.23916",
+		"spprofitrate": "239.05230",
+		"tradedate": "2020-07-09"
+	},
+	{
+		"cumulativenet": "3.34939",
+		"grossprofit": "244040.000",
+		"handingfee": "74052.830",
+		"netprofit": "169987.17000",
+		"playerid": "726878",
+		"profitrate": "66.33685",
+		"spprofitrate": "238.80318",
+		"tradedate": "2020-07-10"
+	},
+	{
+		"cumulativenet": "3.22141",
+		"grossprofit": "236280.000",
+		"handingfee": "74398.250",
+		"netprofit": "161881.75000",
+		"playerid": "726878",
+		"profitrate": "63.32936",
+		"spprofitrate": "227.41644",
+		"tradedate": "2020-07-13"
+	},
+	{
+		"cumulativenet": "3.13711",
+		"grossprofit": "231700.000",
+		"handingfee": "75156.660",
+		"netprofit": "156543.34000",
+		"playerid": "726878",
+		"profitrate": "61.41539",
+		"spprofitrate": "219.91687",
+		"tradedate": "2020-07-14"
+	},
+	{
+		"cumulativenet": "3.67500",
+		"grossprofit": "266280.000",
+		"handingfee": "75663.010",
+		"netprofit": "190616.99000",
+		"playerid": "726878",
+		"profitrate": "75.01280",
+		"spprofitrate": "267.78458",
+		"tradedate": "2020-07-15"
+	},
+	{
+		"cumulativenet": "3.83824",
+		"grossprofit": "277220.000",
+		"handingfee": "76261.600",
+		"netprofit": "200958.40000",
+		"playerid": "726878",
+		"profitrate": "79.17339",
+		"spprofitrate": "282.31251",
+		"tradedate": "2020-07-16"
+	},
+	{
+		"cumulativenet": "3.50278",
+		"grossprofit": "256875.000",
+		"handingfee": "77165.960",
+		"netprofit": "179709.04000",
+		"playerid": "726878",
+		"profitrate": "70.84186",
+		"spprofitrate": "252.46076",
+		"tradedate": "2020-07-17"
+	},
+	{
+		"cumulativenet": "2.38179",
+		"grossprofit": "186920.000",
+		"handingfee": "77901.530",
+		"netprofit": "109018.47000",
+		"playerid": "726878",
+		"profitrate": "43.04960",
+		"spprofitrate": "153.15248",
+		"tradedate": "2020-07-20"
+	},
+	{
+		"cumulativenet": "2.63295",
+		"grossprofit": "202760.000",
+		"handingfee": "77901.530",
+		"netprofit": "124858.47000",
+		"playerid": "726878",
+		"profitrate": "49.56994",
+		"spprofitrate": "175.40500",
+		"tradedate": "2020-07-21"
+	},
+	{
+		"cumulativenet": "2.64014",
+		"grossprofit": "203650.000",
+		"handingfee": "78336.960",
+		"netprofit": "125313.04000",
+		"playerid": "726878",
+		"profitrate": "49.97158",
+		"spprofitrate": "176.04359",
+		"tradedate": "2020-07-22"
+	},
+	{
+		"cumulativenet": "3.08434",
+		"grossprofit": "231790.000",
+		"handingfee": "78463.740",
+		"netprofit": "153326.26000",
+		"playerid": "726878",
+		"profitrate": "61.40709",
+		"spprofitrate": "215.39742",
+		"tradedate": "2020-07-23"
+	},
+	{
+		"cumulativenet": "4.29861",
+		"grossprofit": "309060.000",
+		"handingfee": "79156.550",
+		"netprofit": "229903.45000",
+		"playerid": "726878",
+		"profitrate": "92.33451",
+		"spprofitrate": "322.97540",
+		"tradedate": "2020-07-24"
+	},
+	{
+		"cumulativenet": "3.87791",
+		"grossprofit": "283760.000",
+		"handingfee": "80386.100",
+		"netprofit": "203373.90000",
+		"playerid": "726878",
+		"profitrate": "81.58913",
+		"spprofitrate": "285.70588",
+		"tradedate": "2020-07-27"
+	},
+	{
+		"cumulativenet": "4.61103",
+		"grossprofit": "330710.000",
+		"handingfee": "81100.440",
+		"netprofit": "249609.56000",
+		"playerid": "726878",
+		"profitrate": "100.16121",
+		"spprofitrate": "350.65915",
+		"tradedate": "2020-07-28"
+	},
+	{
+		"cumulativenet": "4.81396",
+		"grossprofit": "343550.000",
+		"handingfee": "81140.410",
+		"netprofit": "262409.59000",
+		"playerid": "726878",
+		"profitrate": "105.08366",
+		"spprofitrate": "368.64102",
+		"tradedate": "2020-07-29"
+	},
+	{
+		"cumulativenet": "5.40014",
+		"grossprofit": "381540.000",
+		"handingfee": "82158.320",
+		"netprofit": "299381.68000",
+		"playerid": "726878",
+		"profitrate": "119.23745",
+		"spprofitrate": "420.58054",
+		"tradedate": "2020-07-31"
+	},
+	{
+		"cumulativenet": "5.78134",
+		"grossprofit": "405795.000",
+		"handingfee": "82372.320",
+		"netprofit": "323422.68000",
+		"playerid": "726878",
+		"profitrate": "128.27463",
+		"spprofitrate": "454.35408",
+		"tradedate": "2020-08-03"
+	},
+	{
+		"cumulativenet": "5.48915",
+		"grossprofit": "387705.000",
+		"handingfee": "82707.560",
+		"netprofit": "304997.44000",
+		"playerid": "726878",
+		"profitrate": "120.34267",
+		"spprofitrate": "428.46973",
+		"tradedate": "2020-08-04"
+	},
+	{
+		"cumulativenet": "7.65347",
+		"grossprofit": "525755.000",
+		"handingfee": "84261.290",
+		"netprofit": "441493.71000",
+		"playerid": "726878",
+		"profitrate": "173.47031",
+		"spprofitrate": "620.22387",
+		"tradedate": "2020-08-05"
+	},
+	{
+		"cumulativenet": "7.09477",
+		"grossprofit": "490795.000",
+		"handingfee": "84534.150",
+		"netprofit": "406260.85000",
+		"playerid": "726878",
+		"profitrate": "158.01689",
+		"spprofitrate": "570.72767",
+		"tradedate": "2020-08-06"
+	},
+	{
+		"cumulativenet": "5.11015",
+		"grossprofit": "365650.000",
+		"handingfee": "84551.300",
+		"netprofit": "281098.70000",
+		"playerid": "726878",
+		"profitrate": "108.43254",
+		"spprofitrate": "394.89605",
+		"tradedate": "2020-08-07"
+	},
+	{
+		"cumulativenet": "5.62530",
+		"grossprofit": "398490.000",
+		"handingfee": "84900.770",
+		"netprofit": "313589.23000",
+		"playerid": "726878",
+		"profitrate": "120.63963",
+		"spprofitrate": "440.53974",
+		"tradedate": "2020-08-10"
+	},
+	{
+		"cumulativenet": "6.31192",
+		"grossprofit": "442445.000",
+		"handingfee": "85548.910",
+		"netprofit": "356896.09000",
+		"playerid": "726878",
+		"profitrate": "136.75179",
+		"spprofitrate": "501.37855",
+		"tradedate": "2020-08-11"
+	},
+	{
+		"cumulativenet": "9.04410",
+		"grossprofit": "614925.000",
+		"handingfee": "85713.030",
+		"netprofit": "529211.97000",
+		"playerid": "726878",
+		"profitrate": "201.62673",
+		"spprofitrate": "743.45317",
+		"tradedate": "2020-08-12"
+	},
+	{
+		"cumulativenet": "10.70722",
+		"grossprofit": "719905.000",
+		"handingfee": "85800.150",
+		"netprofit": "634104.85000",
+		"playerid": "726878",
+		"profitrate": "238.58068",
+		"spprofitrate": "890.80989",
+		"tradedate": "2020-08-13"
+	},
+	{
+		"cumulativenet": "9.32909",
+		"grossprofit": "633340.000",
+		"handingfee": "86148.560",
+		"netprofit": "547191.44000",
+		"playerid": "726878",
+		"profitrate": "202.55953",
+		"spprofitrate": "768.71128",
+		"tradedate": "2020-08-14"
+	},
+	{
+		"cumulativenet": "10.55932",
+		"grossprofit": "711795.000",
+		"handingfee": "87013.050",
+		"netprofit": "624781.95000",
+		"playerid": "726878",
+		"profitrate": "228.44913",
+		"spprofitrate": "877.71280",
+		"tradedate": "2020-08-17"
+	},
+	{
+		"cumulativenet": "13.64634",
+		"grossprofit": "878165.000",
+		"handingfee": "87920.580",
+		"netprofit": "790244.42000",
+		"playerid": "726878",
+		"profitrate": "285.76644",
+		"spprofitrate": "1110.15954",
+		"tradedate": "2020-08-18"
+	},
+	{
+		"cumulativenet": "14.35090",
+		"grossprofit": "916315.000",
+		"handingfee": "88302.500",
+		"netprofit": "828012.50000",
+		"playerid": "726878",
+		"profitrate": "294.43095",
+		"spprofitrate": "1163.21729",
+		"tradedate": "2020-08-19"
+	},
+	{
+		"cumulativenet": "15.26778",
+		"grossprofit": "967625.000",
+		"handingfee": "90464.570",
+		"netprofit": "877160.43000",
+		"playerid": "726878",
+		"profitrate": "306.48087",
+		"spprofitrate": "1232.26181",
+		"tradedate": "2020-08-20"
+	},
+	{
+		"cumulativenet": "15.21388",
+		"grossprofit": "965705.000",
+		"handingfee": "91425.570",
+		"netprofit": "874279.43000",
+		"playerid": "726878",
+		"profitrate": "299.84295",
+		"spprofitrate": "1228.21449",
+		"tradedate": "2020-08-21"
+	},
+	{
+		"cumulativenet": "18.20645",
+		"grossprofit": "1126235.000",
+		"handingfee": "91546.580",
+		"netprofit": "1034688.42000",
+		"playerid": "726878",
+		"profitrate": "348.59361",
+		"spprofitrate": "1453.56195",
+		"tradedate": "2020-08-24"
+	},
+	{
+		"cumulativenet": "17.75657",
+		"grossprofit": "1102410.000",
+		"handingfee": "91829.370",
+		"netprofit": "1010580.63000",
+		"playerid": "726878",
+		"profitrate": "332.93024",
+		"spprofitrate": "1419.69459",
+		"tradedate": "2020-08-25"
+	},
+	{
+		"cumulativenet": "18.16213",
+		"grossprofit": "1126380.000",
+		"handingfee": "94051.980",
+		"netprofit": "1032328.02000",
+		"playerid": "726878",
+		"profitrate": "333.12040",
+		"spprofitrate": "1450.24599",
+		"tradedate": "2020-08-26"
+	},
+	{
+		"cumulativenet": "19.63399",
+		"grossprofit": "1205640.000",
+		"handingfee": "94410.290",
+		"netprofit": "1111229.71000",
+		"playerid": "726878",
+		"profitrate": "351.27787",
+		"spprofitrate": "1561.08949",
+		"tradedate": "2020-08-27"
+	},
+	{
+		"cumulativenet": "19.37718",
+		"grossprofit": "1194715.000",
+		"handingfee": "97249.010",
+		"netprofit": "1097465.99000",
+		"playerid": "726878",
+		"profitrate": "339.33481",
+		"spprofitrate": "1541.75380",
+		"tradedate": "2020-08-28"
+	},
+	{
+		"cumulativenet": "16.35667",
+		"grossprofit": "1034145.000",
+		"handingfee": "98575.000",
+		"netprofit": "935570.00000",
+		"playerid": "726878",
+		"profitrate": "283.30981",
+		"spprofitrate": "1314.31736",
+		"tradedate": "2020-08-31"
+	},
+	{
+		"cumulativenet": "16.82774",
+		"grossprofit": "1060495.000",
+		"handingfee": "99669.470",
+		"netprofit": "960825.53000",
+		"playerid": "726878",
+		"profitrate": "286.48479",
+		"spprofitrate": "1349.79710",
+		"tradedate": "2020-09-01"
+	},
+	{
+		"cumulativenet": "18.20947",
+		"grossprofit": "1135935.000",
+		"handingfee": "101037.840",
+		"netprofit": "1034897.16000",
+		"playerid": "726878",
+		"profitrate": "303.77394",
+		"spprofitrate": "1453.85519",
+		"tradedate": "2020-09-02"
+	},
+	{
+		"cumulativenet": "16.70737",
+		"grossprofit": "1059245.000",
+		"handingfee": "104857.650",
+		"netprofit": "954387.35000",
+		"playerid": "726878",
+		"profitrate": "275.38610",
+		"spprofitrate": "1340.75255",
+		"tradedate": "2020-09-03"
+	},
+	{
+		"cumulativenet": "21.11143",
+		"grossprofit": "1298540.000",
+		"handingfee": "108079.770",
+		"netprofit": "1190460.23000",
+		"playerid": "726878",
+		"profitrate": "338.58356",
+		"spprofitrate": "1672.39495",
+		"tradedate": "2020-09-04"
+	},
+	{
+		"cumulativenet": "20.58512",
+		"grossprofit": "1270695.000",
+		"handingfee": "108440.930",
+		"netprofit": "1162254.07000",
+		"playerid": "726878",
+		"profitrate": "324.02616",
+		"spprofitrate": "1632.77008",
+		"tradedate": "2020-09-07"
+	},
+	{
+		"cumulativenet": "18.32323",
+		"grossprofit": "1152815.000",
+		"handingfee": "111803.380",
+		"netprofit": "1041011.62000",
+		"playerid": "726878",
+		"profitrate": "284.89578",
+		"spprofitrate": "1462.44497",
+		"tradedate": "2020-09-08"
+	},
+	{
+		"cumulativenet": "20.07951",
+		"grossprofit": "1251215.000",
+		"handingfee": "116051.160",
+		"netprofit": "1135163.84000",
+		"playerid": "726878",
+		"profitrate": "306.05002",
+		"spprofitrate": "1594.71289",
+		"tradedate": "2020-09-09"
+	},
+	{
+		"cumulativenet": "19.40163",
+		"grossprofit": "1217380.000",
+		"handingfee": "118552.340",
+		"netprofit": "1098827.66000",
+		"playerid": "726878",
+		"profitrate": "291.34971",
+		"spprofitrate": "1543.66671",
+		"tradedate": "2020-09-10"
+	},
+	{
+		"cumulativenet": "19.87328",
+		"grossprofit": "1246570.000",
+		"handingfee": "122451.340",
+		"netprofit": "1124118.66000",
+		"playerid": "726878",
+		"profitrate": "293.53014",
+		"spprofitrate": "1579.19629",
+		"tradedate": "2020-09-11"
+	},
+	{
+		"cumulativenet": "23.56971",
+		"grossprofit": "1446530.000",
+		"handingfee": "124256.600",
+		"netprofit": "1322273.40000",
+		"playerid": "726878",
+		"profitrate": "340.00460",
+		"spprofitrate": "1857.57013",
+		"tradedate": "2020-09-14"
+	},
+	{
+		"cumulativenet": "28.26857",
+		"grossprofit": "1700540.000",
+		"handingfee": "126382.650",
+		"netprofit": "1574157.35000",
+		"playerid": "726878",
+		"profitrate": "397.07532",
+		"spprofitrate": "2211.42441",
+		"tradedate": "2020-09-15"
+	},
+	{
+		"cumulativenet": "29.97797",
+		"grossprofit": "1794625.000",
+		"handingfee": "128821.780",
+		"netprofit": "1665803.22000",
+		"playerid": "726878",
+		"profitrate": "410.29511",
+		"spprofitrate": "2340.17133",
+		"tradedate": "2020-09-16"
+	},
+	{
+		"cumulativenet": "28.40503",
+		"grossprofit": "1710695.000",
+		"handingfee": "129205.830",
+		"netprofit": "1581489.17000",
+		"playerid": "726878",
+		"profitrate": "380.00209",
+		"spprofitrate": "2221.72437",
+		"tradedate": "2020-09-17"
+	},
+	{
+		"cumulativenet": "27.63412",
+		"grossprofit": "1671310.000",
+		"handingfee": "131134.810",
+		"netprofit": "1540175.19000",
+		"playerid": "726878",
+		"profitrate": "361.98760",
+		"spprofitrate": "2163.68523",
+		"tradedate": "2020-09-18"
+	},
+	{
+		"cumulativenet": "29.67435",
+		"grossprofit": "1787430.000",
+		"handingfee": "137880.460",
+		"netprofit": "1649549.54000",
+		"playerid": "726878",
+		"profitrate": "379.83868",
+		"spprofitrate": "2317.33766",
+		"tradedate": "2020-09-21"
+	},
+	{
+		"cumulativenet": "40.27967",
+		"grossprofit": "2357620.000",
+		"handingfee": "139553.480",
+		"netprofit": "2218066.52000",
+		"playerid": "726878",
+		"profitrate": "499.75156",
+		"spprofitrate": "3116.00771",
+		"tradedate": "2020-09-22"
+	},
+	{
+		"cumulativenet": "46.68333",
+		"grossprofit": "2705495.000",
+		"handingfee": "144133.460",
+		"netprofit": "2561361.54000",
+		"playerid": "726878",
+		"profitrate": "559.37795",
+		"spprofitrate": "3598.27905",
+		"tradedate": "2020-09-23"
+	},
+	{
+		"cumulativenet": "47.78739",
+		"grossprofit": "2767885.000",
+		"handingfee": "147318.010",
+		"netprofit": "2620566.99000",
+		"playerid": "726878",
+		"profitrate": "552.25896",
+		"spprofitrate": "3681.45268",
+		"tradedate": "2020-09-24"
+	},
+	{
+		"cumulativenet": "49.94738",
+		"grossprofit": "2886685.000",
+		"handingfee": "150315.440",
+		"netprofit": "2736369.56000",
+		"playerid": "726878",
+		"profitrate": "556.90808",
+		"spprofitrate": "3844.13568",
+		"tradedate": "2020-09-25"
+	}
+]

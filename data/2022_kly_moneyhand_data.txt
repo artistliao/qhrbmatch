@@ -1,0 +1,308 @@
+[
+	{
+		"breedname": "白银",
+		"handingfee": "",
+		"lhandsp1": "348",
+		"lmoneyp1": "294795.000",
+		"phandsp1": "622",
+		"playerid": "",
+		"pmoneyp1": "1916640.000"
+	},
+	{
+		"breedname": "玻璃",
+		"handingfee": "",
+		"lhandsp1": "1435",
+		"lmoneyp1": "468880.000",
+		"phandsp1": "2090",
+		"playerid": "",
+		"pmoneyp1": "1385280.000"
+	},
+	{
+		"breedname": "菜籽油",
+		"handingfee": "",
+		"lhandsp1": "549",
+		"lmoneyp1": "316090.000",
+		"phandsp1": "482",
+		"playerid": "",
+		"pmoneyp1": "308020.000"
+	},
+	{
+		"breedname": "苹果",
+		"handingfee": "",
+		"lhandsp1": "112",
+		"lmoneyp1": "122610.000",
+		"phandsp1": "329",
+		"playerid": "",
+		"pmoneyp1": "241780.000"
+	},
+	{
+		"breedname": "液化石油气",
+		"handingfee": "",
+		"lhandsp1": "415",
+		"lmoneyp1": "279620.000",
+		"phandsp1": "358",
+		"playerid": "",
+		"pmoneyp1": "230700.000"
+	},
+	{
+		"breedname": "聚丙烯",
+		"handingfee": "",
+		"lhandsp1": "238",
+		"lmoneyp1": "42410.000",
+		"phandsp1": "428",
+		"playerid": "",
+		"pmoneyp1": "230095.000"
+	},
+	{
+		"breedname": "沥青",
+		"handingfee": "",
+		"lhandsp1": "749",
+		"lmoneyp1": "58840.000",
+		"phandsp1": "892",
+		"playerid": "",
+		"pmoneyp1": "214400.000"
+	},
+	{
+		"breedname": "黄大豆1号",
+		"handingfee": "",
+		"lhandsp1": "549",
+		"lmoneyp1": "192760.000",
+		"phandsp1": "519",
+		"playerid": "",
+		"pmoneyp1": "183740.000"
+	},
+	{
+		"breedname": "燃料油",
+		"handingfee": "",
+		"lhandsp1": "1737",
+		"lmoneyp1": "213730.000",
+		"phandsp1": "1107",
+		"playerid": "",
+		"pmoneyp1": "181140.000"
+	},
+	{
+		"breedname": "铁矿石",
+		"handingfee": "",
+		"lhandsp1": "589",
+		"lmoneyp1": "228400.000",
+		"phandsp1": "254",
+		"playerid": "",
+		"pmoneyp1": "166650.000"
+	},
+	{
+		"breedname": "郑醇",
+		"handingfee": "",
+		"lhandsp1": "1631",
+		"lmoneyp1": "134540.000",
+		"phandsp1": "1230",
+		"playerid": "",
+		"pmoneyp1": "143570.000"
+	},
+	{
+		"breedname": "纸浆",
+		"handingfee": "",
+		"lhandsp1": "153",
+		"lmoneyp1": "70280.000",
+		"phandsp1": "259",
+		"playerid": "",
+		"pmoneyp1": "113240.000"
+	},
+	{
+		"breedname": "纯碱",
+		"handingfee": "",
+		"lhandsp1": "271",
+		"lmoneyp1": "86420.000",
+		"phandsp1": "543",
+		"playerid": "",
+		"pmoneyp1": "86100.000"
+	},
+	{
+		"breedname": "硅铁",
+		"handingfee": "",
+		"lhandsp1": "497",
+		"lmoneyp1": "90460.000",
+		"phandsp1": "468",
+		"playerid": "",
+		"pmoneyp1": "65430.000"
+	},
+	{
+		"breedname": "棕榈油",
+		"handingfee": "",
+		"lhandsp1": "391",
+		"lmoneyp1": "91900.000",
+		"phandsp1": "190",
+		"playerid": "",
+		"pmoneyp1": "65000.000"
+	},
+	{
+		"breedname": "锰硅",
+		"handingfee": "",
+		"lhandsp1": "652",
+		"lmoneyp1": "114980.000",
+		"phandsp1": "345",
+		"playerid": "",
+		"pmoneyp1": "56820.000"
+	},
+	{
+		"breedname": "苯乙烯",
+		"handingfee": "",
+		"lhandsp1": "153",
+		"lmoneyp1": "37705.000",
+		"phandsp1": "112",
+		"playerid": "",
+		"pmoneyp1": "47465.000"
+	},
+	{
+		"breedname": "豆油",
+		"handingfee": "",
+		"lhandsp1": "33",
+		"lmoneyp1": "1220.000",
+		"phandsp1": "206",
+		"playerid": "",
+		"pmoneyp1": "37740.000"
+	},
+	{
+		"breedname": "玉米",
+		"handingfee": "",
+		"lhandsp1": "100",
+		"lmoneyp1": "3000.000",
+		"phandsp1": "178",
+		"playerid": "",
+		"pmoneyp1": "35350.000"
+	},
+	{
+		"breedname": "乙二醇",
+		"handingfee": "",
+		"lhandsp1": "132",
+		"lmoneyp1": "21750.000",
+		"phandsp1": "106",
+		"playerid": "",
+		"pmoneyp1": "34920.000"
+	},
+	{
+		"breedname": "菜粕",
+		"handingfee": "",
+		"lhandsp1": "112",
+		"lmoneyp1": "12540.000",
+		"phandsp1": "370",
+		"playerid": "",
+		"pmoneyp1": "34430.000"
+	},
+	{
+		"breedname": "PTA",
+		"handingfee": "",
+		"lhandsp1": "82",
+		"lmoneyp1": "2140.000",
+		"phandsp1": "157",
+		"playerid": "",
+		"pmoneyp1": "25280.000"
+	},
+	{
+		"breedname": "聚氯乙烯",
+		"handingfee": "",
+		"lhandsp1": "92",
+		"lmoneyp1": "49375.000",
+		"phandsp1": "93",
+		"playerid": "",
+		"pmoneyp1": "13325.000"
+	},
+	{
+		"breedname": "豆粕",
+		"handingfee": "",
+		"lhandsp1": "114",
+		"lmoneyp1": "16170.000",
+		"phandsp1": "50",
+		"playerid": "",
+		"pmoneyp1": "12490.000"
+	},
+	{
+		"breedname": "焦煤",
+		"handingfee": "",
+		"lhandsp1": "13",
+		"lmoneyp1": "390.000",
+		"phandsp1": "32",
+		"playerid": "",
+		"pmoneyp1": "11850.000"
+	},
+	{
+		"breedname": "聚乙烯",
+		"handingfee": "",
+		"lhandsp1": "39",
+		"lmoneyp1": "4425.000",
+		"phandsp1": "47",
+		"playerid": "",
+		"pmoneyp1": "10775.000"
+	},
+	{
+		"breedname": "尿素",
+		"handingfee": "",
+		"lhandsp1": "20",
+		"lmoneyp1": "200.000",
+		"phandsp1": "10",
+		"playerid": "",
+		"pmoneyp1": "400.000"
+	},
+	{
+		"breedname": "玉米淀粉",
+		"handingfee": "",
+		"lhandsp1": "15",
+		"lmoneyp1": "540.000",
+		"phandsp1": "6",
+		"playerid": "",
+		"pmoneyp1": "360.000"
+	},
+	{
+		"breedname": "螺纹钢",
+		"handingfee": "",
+		"lhandsp1": "0",
+		"lmoneyp1": "0.000",
+		"phandsp1": "13",
+		"playerid": "",
+		"pmoneyp1": "260.000"
+	},
+	{
+		"breedname": "橡胶",
+		"handingfee": "",
+		"lhandsp1": "19",
+		"lmoneyp1": "4150.000",
+		"phandsp1": "0",
+		"playerid": "",
+		"pmoneyp1": "0.000"
+	},
+	{
+		"breedname": "焦炭",
+		"handingfee": "",
+		"lhandsp1": "4",
+		"lmoneyp1": "3350.000",
+		"phandsp1": "0",
+		"playerid": "",
+		"pmoneyp1": "0.000"
+	},
+	{
+		"breedname": "棉花",
+		"handingfee": "",
+		"lhandsp1": "30",
+		"lmoneyp1": "5175.000",
+		"phandsp1": "0",
+		"playerid": "",
+		"pmoneyp1": "0.000"
+	},
+	{
+		"breedname": "热轧卷板",
+		"handingfee": "",
+		"lhandsp1": "60",
+		"lmoneyp1": "4200.000",
+		"phandsp1": "0",
+		"playerid": "",
+		"pmoneyp1": "0.000"
+	},
+	{
+		"breedname": "铝",
+		"handingfee": "",
+		"lhandsp1": "1",
+		"lmoneyp1": "0.000",
+		"phandsp1": "0",
+		"playerid": "",
+		"pmoneyp1": "0.000"
+	}
+]
