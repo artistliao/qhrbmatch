@@ -17,7 +17,8 @@ func main() {
 	mlog.Debugf("qhrbmatch start!")
 	defer mlog.Debugf("qhrbmatch end!")
 
-	_ = MoneyHand("./data/2020_kly_moneyhand_data.txt")
-	_ = MoneyHand("./data/2022_kly_moneyhand_data.txt")
-	_ = Volatility("./data/2020_kly_profit.txt")
+	//_ = MoneyHand("./data/2020_kly_moneyhand_data.txt")
+	//_ = MoneyHand("./data/2022_kly_moneyhand_data.txt")
+	//_ = Volatility("./data/2020_kly_profit.txt")
+	_ = Volatility2023("./data/2023_wdd_profit.txt")
 }

@@ -24,3 +24,19 @@ type ProfitStatData struct {
 	Tradedate     string  `json:"tradedate"`
 	Volatility    float64 `json:"volatility"`
 }
+
+type DataPointProfit2023 struct {
+	TradeDate     string  `json:"tradeDate"`
+	GrossProfit   float64 `json:"grossProfit"`
+	NetProfit     float64 `json:"netProfit"`
+	ServiceCharge float64 `json:"serviceCharge"`
+	Volatility    float64 `json:"volatility"`
+}
+
+type ProfitData2023 struct {
+	StatusCode    int                   `json:"statusCode"`
+	StatusMessage string                `json:"statusMessage"`
+	ResultCode    string                `json:"resultCode"`
+	ResultMessage string                `json:"resultMessage"`
+	DataPoints    []DataPointProfit2023 `json:"dataPoints"`
+}

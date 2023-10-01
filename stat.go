@@ -136,3 +136,58 @@ func Volatility(filename string) error {
 
 	return nil
 }
+
+func Volatility2023(filename string) error {
+	mlog.Debugf("Volatility filename:%s", filename)
+	defer mlog.Debugf("Volatility end!")
+
+	file, err := os.Open(filename)
+	if file == nil || err != nil {
+		mlog.Warnf("read file fail, err:%v", err)
+		return err
+	}
+	defer func(file *os.File) {
+		cerr := file.Close()
+		if cerr != nil {
+			mlog.Warnf("file Close err:%v", cerr)
+		}
+	}(file)
+
+	content, err := io.ReadAll(file)
+	if err != nil {
+		mlog.Warnf("read to fd fail, err:%v", err)
+		return err
+	}
+
+	var profitData2023 ProfitData2023
+	err = json.Unmarshal(content, &profitData2023)
+	if err != nil {
+		mlog.Warnf("json.Unmarshal content:%v, err:%v", string(content), err)
+		return err
+	}
+
+	var startMoney float64 = 2436325.41
+	var lastNetprofit float64
+	for i, dp := range profitData2023.DataPoints {
+		lastNetprofit = 0.0
+		if i > 0 {
+			lastNetprofit = profitData2023.DataPoints[i-1].NetProfit
+		}
+		profitData2023.DataPoints[i].Volatility = (dp.NetProfit - lastNetprofit) / (startMoney + lastNetprofit)
+		//mlog.Debugf("日期:%s, 波动率:%.2f%%", psd.Tradedate, volatility*100.0)
+	}
+
+	sort.Slice(profitData2023.DataPoints, func(i, j int) bool {
+		return profitData2023.DataPoints[i].Volatility > profitData2023.DataPoints[j].Volatility
+	})
+
+	var allVolatility float64 = 0.0
+	for _, dp := range profitData2023.DataPoints {
+		mlog.Debugf("日期:%s, 波动率:%.2f%%", dp.TradeDate, dp.Volatility*100.0)
+		allVolatility += math.Abs(dp.Volatility)
+	}
+
+	mlog.Debugf("平均波动率:%.2f%%", (allVolatility/float64(len(profitData2023.DataPoints)))*100.0)
+
+	return nil
+}
